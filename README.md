@@ -28,7 +28,7 @@ This repo does not have a licence. This means that by default, it is All Rights 
  - Redistribute the Mod under a different name or Author.
 
 ## Mod Page
-[Cosmos Industry on CurseForge](https://minecraft.curseforge.com/projects/cosmos-industry)
+[Cosmos Industry on CurseForge](https://minecraft.curseforge.com/projects/cosmos-industry) [NOT YET LIVE]
 
 ## Development Team:
 - TheCosmicNebula (Main Author)
