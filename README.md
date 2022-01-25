@@ -1,5 +1,5 @@
 # CosmosIndustry
-A technology mod for Minecraft, adding a variety of useful ores, machines and tools. Currently being developed for its first public release. Currently using MinecraftForge 1.18.1.
+A technology mod for Minecraft, adding a variety of useful ores, machines and tools. Currently being developed and in its BETA phase. Currently using MinecraftForge 1.18.1.
 
 ## Licence
 This repo does not have a licence. This means that by default, it is All Rights Reserved. However, due to having complete control over what rights that includes, here is a list of what you can and cannot do:
