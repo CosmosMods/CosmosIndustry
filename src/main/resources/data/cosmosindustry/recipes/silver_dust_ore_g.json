@@ -1,0 +1,10 @@
+{
+	"type": "cosmosindustry:grinding",
+	"input": {
+		"item": "cosmosindustry:block_ore_silver"
+	},
+	"result": {
+		"item": "cosmosindustry:silver_dust",
+		"count": 6
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"III",
+		"IGI",
+		"III"
+	],
+	"key": {
+		"G": {
+			"item": "cosmosindustry:silicon_wafer"
+		},
+		"I": {
+			"item": "cosmosindustry:energy_ingot"
+		}
+	},
+	"result": {
+		"item": "cosmosindustry:energy_wafer"
+	}
+}

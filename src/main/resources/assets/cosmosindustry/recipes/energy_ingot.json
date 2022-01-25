@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"RRR",
+		"RGR",
+		"RRR"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:iron_ingot"
+		},
+		"R": {
+			"item": "cosmosindustry:energy_dust"
+		}
+	},
+	"result": {
+		"item": "cosmosindustry:energy_ingot"
+	}
+}

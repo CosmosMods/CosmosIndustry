@@ -1,0 +1,46 @@
+{ 
+	"grinder": { 
+	   "category" : "block", 
+	   "sounds": [ "cosmosindustry:grinder" ]
+    },
+    "crusher": { 
+       "category" : "block", 
+       "sounds": [ "cosmosindustry:crusher" ]
+    },
+    "laserhum": { 
+       "category" : "block", 
+       "sounds": [ "cosmosindustry:laserhum" ]
+    },
+    "compressor": { 
+       "category" : "block", 
+       "sounds": [ "cosmosindustry:compressor" ]
+    },
+    "extractor": {
+       "category" : "block", 
+       "sounds": [ "cosmosindustry:extractor" ]
+    },
+	"danger": {
+		"category": "block",
+		"sounds": [ "cosmosindustry:danger" ]
+	},
+	"digital_alien": {
+		"category": "block",
+		"sounds": [ "cosmosindustry:digital_alien" ]
+	},
+	"digital_alien_slow": {
+		"category": "block",
+		"sounds": [ "cosmosindustry:digital_alien_slow" ]
+	},
+	"digital_harsh": {
+		"category": "block",
+		"sounds": [ "cosmosindustry:digital_harsh" ]
+	},
+	"digital_wailing": {
+		"category": "block",
+		"sounds": [ "cosmosindustry:digital_wailing" ]
+	},
+	"agency": {
+		"category": "block",
+		"sounds": [ "cosmosindustry:agency" ]
+	}
+}

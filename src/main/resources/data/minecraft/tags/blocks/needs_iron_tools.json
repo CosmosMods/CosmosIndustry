@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		"cosmosindustry:block_ore_silicon",
+		"cosmosindustry:block_brass",
+		"cosmosindustry:block_steel",
+		
+		"cosmosindustry:block_kiln",
+		"cosmosindustry:block_grinder",
+		"cosmosindustry:block_compactor",
+		"cosmosindustry:block_charger",
+		"cosmosindustry:block_separator",
+		"cosmosindustry:block_laser_cutter",
+		
+		"cosmosindustry:block_synthesiser",
+		"cosmosindustry:block_synthesiser_stand",
+		
+		"cosmosindustry:block_energy_channel",
+		"cosmosindustry:block_energy_channel_transparent",
+		"cosmosindustry:block_energy_channel_surge",
+		"cosmosindustry:block_energy_channel_transparent_surge",
+		
+		"cosmosindustry:block_capacitor"
+	]
+}

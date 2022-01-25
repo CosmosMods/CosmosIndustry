@@ -1,0 +1,10 @@
+{
+	"type": "cosmosindustry:grinding",
+	"input": {
+		"item": "minecraft:deepslate_copper_ore"
+	},
+	"result": {
+		"item": "cosmosindustry:copper_dust",
+		"count": 8
+	}
+}

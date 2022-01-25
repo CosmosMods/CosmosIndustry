@@ -1,0 +1,13 @@
+{
+	"type": "cosmosindustry:separating",
+	"input": {
+		"item": "cosmosindustry:block_ore_tin"
+	},
+	"result": {
+		"item": "cosmosindustry:tin_dust",
+		"count": 8
+	},
+	"secondaryResult": {
+		"item": "minecraft:stone"
+	}
+}

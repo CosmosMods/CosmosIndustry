@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"cosmosindustry:block_ore_tin",
+		"cosmosindustry:block_ore_silver",
+		
+		"cosmosindustry:block_tin",
+		"cosmosindustry:block_silver",
+		"cosmosindustry:block_bronze"
+	]
+}

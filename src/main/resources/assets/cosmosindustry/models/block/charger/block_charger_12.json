@@ -1,0 +1,14 @@
+{
+    "parent": "cosmosindustry:block/charger/block_charger",
+    "textures": {
+        "particle": "cosmosindustry:processing/blocks/charger/base_top",
+        
+        "base_top": "cosmosindustry:processing/blocks/charger/base_top",
+        "base_bottom": "cosmosindustry:processing/blocks/charger/base_bottom",
+        "side": "cosmosindustry:processing/blocks/charger/side/side_12",
+        "special": "cosmosindustry:processing/blocks/charger/special",
+        
+        "top_bottom": "cosmosindustry:processing/blocks/charger/top_bottom",
+        "top_top": "cosmosindustry:processing/blocks/charger/top_top"
+    }
+}

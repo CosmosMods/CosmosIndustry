@@ -1,0 +1,13 @@
+{
+	"type": "cosmosindustry:separating",
+	"input": {
+		"item": "minecraft:iron_ore"
+	},
+	"result": {
+		"item": "cosmosindustry:iron_dust",
+		"count": 8
+	},
+	"secondaryResult": {
+		"item": "minecraft:stone"
+	}
+}

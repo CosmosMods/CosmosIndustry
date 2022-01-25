@@ -1,0 +1,6 @@
+{
+    "parent": "cosmoslibrary:block/modblock",
+    "textures": {
+    	"all": "cosmosindustry:base/blocks/world/block/block_silver"
+    }
+}

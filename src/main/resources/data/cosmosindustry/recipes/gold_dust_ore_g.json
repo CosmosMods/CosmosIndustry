@@ -1,0 +1,10 @@
+{
+	"type": "cosmosindustry:grinding",
+	"input": {
+		"item": "minecraft:gold_ore"
+	},
+	"result": {
+		"item": "cosmosindustry:gold_dust",
+		"count": 6
+	}
+}

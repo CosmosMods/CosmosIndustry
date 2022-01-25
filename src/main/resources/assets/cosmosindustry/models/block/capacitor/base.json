@@ -1,0 +1,51 @@
+{
+    "parent": "block/block",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 135, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        }
+    },
+    "textures": {
+        "particle": "cosmosindustry:storage/blocks/capacitor/inner",
+        "inner_cube": "cosmosindustry:storage/blocks/capacitor/inner"
+    },
+    "elements": [
+        {
+            "from": [2, 2, 2],
+            "to": [14, 14, 14],
+            "faces": {
+                "up": {
+                    "uv": [2,2,14,14],
+                    "texture": "#inner_cube"
+                },
+                "down": {
+                    "uv": [2,2,14,14],
+                    "texture": "#inner_cube"
+                },
+                "north": {
+                    "uv": [2,2,14,14],
+                    "texture": "#inner_cube"
+                },
+                "south": {
+                    "uv": [2,2,14,14],
+                    "texture": "#inner_cube"
+                },
+                "east": {
+                    "uv": [2,2,14,14],
+                    "texture": "#inner_cube"
+                },
+                "west": {
+                    "uv": [2,2,14,14],
+                    "texture": "#inner_cube"
+                }
+            }
+        }
+    ]
+}

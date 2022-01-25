@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"IGI",
+		"CSC",
+		"EWE"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"G": {
+			"item": "minecraft:glass"
+		},
+		"C": {
+			"item": "cosmosindustry:circuit_one"
+		},
+		"S": {
+			"item": "cosmosindustry:block_steel"
+		},
+		"E": {
+			"item": "cosmosindustry:energy_ingot"
+		},
+		"W": {
+			"item": "cosmosindustry:energy_wafer"
+		}
+	},
+	"result": {
+		"item": "cosmosindustry:block_processing_structure"
+	}
+}

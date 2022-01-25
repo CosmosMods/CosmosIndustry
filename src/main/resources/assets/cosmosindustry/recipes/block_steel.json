@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"CCC",
+		"CCC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "cosmosindustry:steel_ingot"
+		}
+	},
+	"result": {
+		"item": "cosmosindustry:block_steel"
+	}
+}

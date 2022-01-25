@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when three adjacent connected sides are a T shape.",
+	"parent": "cosmoslibrary:block/tinted_cube",
+    "textures": {
+		"particle": "cosmosindustry:base/blocks/connected/glass/wither/normal",
+        "down": "cosmosindustry:base/blocks/connected/glass/wither/udlr",
+		"up": "cosmosindustry:base/blocks/connected/glass/wither/udlr",
+		"north": "cosmosindustry:base/blocks/connected/glass/wither/udr",
+		"south": "cosmosindustry:base/blocks/connected/glass/wither/udl",
+		"west": "cosmosindustry:base/blocks/connected/glass/wither/udlr",
+		"east": "cosmosindustry:base/blocks/connected/glass/wither/ud"
+    }
+}

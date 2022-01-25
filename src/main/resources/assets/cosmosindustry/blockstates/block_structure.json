@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "cosmosindustry:block/block_structure_model" }
+    }
+}

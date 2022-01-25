@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "cosmosindustry:base/items/energy/circuit_advanced_raw"
+    }
+}

@@ -1,0 +1,140 @@
+{
+	"itemGroup.cosmosindustry.tools": "Cosmos Industry: Devices",
+	"itemGroup.cosmosindustry.blocks": "Cosmos Industry: Blocks",
+	"itemGroup.cosmosindustry.items": "Cosmos Industry: Items",
+	
+	"block.cosmosindustry.block_structure": "Machine Structure",
+	"block.cosmosindustry.block_kiln": "Kiln",
+	"block.cosmosindustry.block_grinder": "Grinder",
+	"block.cosmosindustry.block_compactor": "Compactor",
+	"block.cosmosindustry.block_separator": "Separator",
+	"block.cosmosindustry.block_laser_cutter": "Laser Cutter",
+	"block.cosmosindustry.block_charger": "Charger",
+	
+	"block.cosmosindustry.block_synthesiser": "Synthesiser",
+	"block.cosmosindustry.block_synthesiser_stand": "Synthesiser Stand",
+	
+	"block.cosmosindustry.block_basalt": "Basalt",
+	"block.cosmosindustry.block_basaltcobblestone": "Basalt Cobblestone",
+	"block.cosmosindustry.block_basaltbrick": "Basalt Bricks",
+	"block.cosmosindustry.block_basaltsmooth": "Smooth Basalt",
+	
+	"block.cosmosindustry.block_marble": "Marble",
+	"block.cosmosindustry.block_marblecobblestone": "Marble Cobblestone",
+	"block.cosmosindustry.block_marblebrick": "Marble Bricks",
+	"block.cosmosindustry.block_marblesmooth": "Smooth Marble",
+	
+	"block.cosmosindustry.block_glass_black": "Black Glass",
+	
+	"block.cosmosindustry.block_reinforcedstone": "Reinforced Stone",
+	"block.cosmosindustry.block_reinforcedbrick": "Reinforced Bricks",
+	"block.cosmosindustry.block_reinforcedglass": "Reinforced Glass",
+	
+	"block.cosmosindustry.block_witherstone": "Wither Stone",
+	"block.cosmosindustry.block_witherbrick": "Wither Bricks",
+	"block.cosmosindustry.block_witherglass": "Wither Glass",
+	
+	"block.cosmosindustry.block_ore_tin": "Tin Ore",
+	"block.cosmosindustry.block_ore_silver": "Silver Ore",
+	"block.cosmosindustry.block_ore_silicon": "Silicon Ore",
+	
+	"block.cosmosindustry.block_tin": "Tin Block",
+	"block.cosmosindustry.block_silver": "Silver Block",
+	"block.cosmosindustry.block_silicon": "Silicon Block",
+	"block.cosmosindustry.block_steel": "Steel Block",
+	"block.cosmosindustry.block_bronze": "Bronze Block",
+	"block.cosmosindustry.block_brass": "Brass Block",
+	
+	"block.cosmosindustry.block_energy_channel": "Energy Channel",
+	"block.cosmosindustry.block_energy_channel_transparent": "Transparent Energy Channel",
+	"block.cosmosindustry.block_energy_channel_surge": "Surge Energy Channel",
+	"block.cosmosindustry.block_energy_channel_transparent_surge": "Transparent Surge Energy Channel",
+	
+	"item.cosmosindustry.copper_ingot": "Copper Ingot",
+	"item.cosmosindustry.tin_ingot": "Tin Ingot",
+	"item.cosmosindustry.silver_ingot": "Silver Ingot",
+	"item.cosmosindustry.silicon_ingot": "Silicon Ingot",
+	"item.cosmosindustry.steel_ingot": "Steel Ingot",
+	"item.cosmosindustry.steel_ingot_unrefined": "Unrefined Steel Ingot",
+	"item.cosmosindustry.bronze_ingot": "Bronze Ingot",
+	"item.cosmosindustry.brass_ingot": "Brass Ingot",
+	"item.cosmosindustry.lapis_ingot": "Lapis Ingot",
+	
+	"item.cosmosindustry.copper_dust": "Copper Dust",
+	"item.cosmosindustry.tin_dust": "Tin Dust",
+	"item.cosmosindustry.silver_dust": "Silver Dust",
+	"item.cosmosindustry.diamond_dust": "Diamond Dust",
+	"item.cosmosindustry.gold_dust": "Gold Dust",
+	"item.cosmosindustry.iron_dust": "Iron Dust",
+	
+	"item.cosmosindustry.stone_dust": "Stone Dust",
+	
+	"item.cosmosindustry.bronze_dust": "Bronze Dust",
+	"item.cosmosindustry.steel_dust": "Steel Dust",
+	"item.cosmosindustry.brass_dust": "Brass Dust",
+	
+	"item.cosmosindustry.iron_dust_refine": "Refined Iron Dust",
+	"item.cosmosindustry.gold_dust_refine": "Refined Gold Dust",
+	
+	"item.cosmosindustry.energy_ingot": "Energy Ingot",
+	"item.cosmosindustry.energy_wafer": "Energy Wafer",
+	"item.cosmosindustry.energy_dust": "Energy Dust",
+	
+	"item.cosmosindustry.copper_plate": "Copper Plate",
+	"item.cosmosindustry.tin_plate": "Tin Plate",
+	"item.cosmosindustry.silver_plate": "Silver Plate",
+	
+	"item.cosmosindustry.bronze_plate": "Bronze Plate",
+	"item.cosmosindustry.steel_plate": "Steel Plate",
+	"item.cosmosindustry.brass_plate": "Brass Plate",
+	
+	"item.cosmosindustry.iron_plate": "Iron Plate",
+	"item.cosmosindustry.gold_plate": "Gold Plate",
+	"item.cosmosindustry.diamond_plate": "Diamond Plate",
+	
+	"item.cosmosindustry.circuit_raw": "Standard Circuit (Unfinished)",
+	"item.cosmosindustry.circuit": "Standard Circuit",
+	"item.cosmosindustry.circuit_advanced_raw": "Surge Circuit (Unfinished)",
+	"item.cosmosindustry.circuit_advanced": "Surge Circuit",
+	
+	"item.cosmosindustry.silicon": "Silicon",
+	"item.cosmosindustry.silicon_refined": "Refined Silicon",
+	"item.cosmosindustry.silicon_wafer": "Wafer",
+	
+	"item.cosmosindustry.upgrade_base": "Upgrade Base",
+	"item.cosmosindustry.upgrade_speed": "Speed Upgrade",
+	"item.cosmosindustry.upgrade_capacity": "Capacity Upgrade",
+	"item.cosmosindustry.upgrade_efficiency": "Efficiency Upgrade",
+	
+	"item.cosmosindustry.upgrade_fluid_speed": "Fluid Speed Upgrade",
+	"item.cosmosindustry.upgrade_fluid_capacity": "Fluid Capacity Upgrade",
+	"item.cosmosindustry.upgrade_fluid_efficiency": "Fluid Efficiency Upgrade",
+	
+	"item.cosmosindustry.rubber": "Rubber",
+	"item.cosmosindustry.rubber_insulation": "Rubber Insulation",
+	"item.cosmosindustry.steel_rod": "Steel Rod",
+	"item.cosmosindustry.tool_rod": "Tool Rod",
+	
+	"item.cosmosindustry.machine_wrench": "Machine Wrench",
+	
+	"cosmosindustry.gui.kiln": "Kiln",
+	"cosmosindustry.gui.grinder": "Grinder",
+	"cosmosindustry.gui.compactor": "Compactor",
+	"cosmosindustry.gui.separator": "Separator",
+	"cosmosindustry.gui.laser_cutter": "Laser Cutter",
+	"cosmosindustry.gui.charger": "Charger",
+	"cosmosindustry.gui.synthesiser": "Synthesiser",
+	
+	"cosmosindustry.gui.capacitor": "Capacitor",
+	
+	"cosmosindustry.gui.config.name": "cosmosindustry Config",
+	"cosmosindustry.gui.done": "Done",
+	"cosmosindustry.gui.config.messages": "Debug Messages",
+	
+	"cosmosindustry.channel.status.cycle_side": "Side Cycled: ",
+	
+	
+	"cosmosindustry.integration.jei.grinder_category": "Grinding",
+	"cosmosindustry.integration.jei.separator_category": "Separating"
+	
+}

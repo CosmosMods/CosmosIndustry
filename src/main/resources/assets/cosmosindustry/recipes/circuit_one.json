@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"RWD",
+		"IGI",
+		"DWR"
+	],
+	"key": {
+		"G": {
+			"item": "cosmosindustry:circuit_one_raw"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"I": {
+			"item": "cosmosindustry:energy_ingot"
+		},
+		"W": {
+			"item": "cosmosindustry:energy_wafer"
+		},
+		"D": {
+			"item": "cosmosindustry:energy_dust"
+		}
+	},
+	"result": {
+		"item": "cosmosindustry:circuit_one"
+	}
+}

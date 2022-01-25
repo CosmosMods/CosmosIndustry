@@ -1,0 +1,10 @@
+{
+	"type": "cosmosindustry:grinding",
+	"input": {
+		"item": "cosmosindustry:block_ore_silicon"
+	},
+	"result": {
+		"item": "cosmosindustry:silicon",
+		"count": 6
+	}
+}

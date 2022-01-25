@@ -1,0 +1,13 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "all": "cosmosindustry:base/blocks/world/block/block_yellowtopaz"
+        }
+    },
+    
+    "variants": {
+        "": { "model": "cosmoslibrary:modblock" }
+        
+    }
+}

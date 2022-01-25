@@ -1,0 +1,103 @@
+#cosmosindustry
+modLoader="javafml"
+loaderVersion="[39,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/TheCosmicNebula/DimensionalPocketsII/issues"
+logoFile="dimensional_logo.png"
+	
+[[mods]] #mandatory
+	modId="cosmosindustry"
+	version="5.0.2.120"
+	displayName="Cosmos Industry"
+	displayURL="https://www.curseforge.com/minecraft/mc-mods/cosmos-indsutry"
+	credits=""
+	authors="TheCosmicNebula_" #optional
+	description='''
+Adds machines, ores and more!
+'''
+
+[[dependencies.cosmosindustry]]
+    modId="cosmoslibrary"
+    mandatory=true
+    versionRange="[5.1.5,)"
+    ordering="BEFORE"
+    side="BOTH"
+[[dependencies.cosmosindustry]]
+    modId="forge"
+    mandatory=true
+    versionRange="[39.0.54,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cosmosindustry]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19]"
+    ordering="NONE"
+    side="BOTH"
+
+#cosmoslibrary
+modLoader="javafml" #mandatory
+loaderVersion="[39,)" #mandatory
+license="All Rights Reserved" #mandatory
+logoFile="cosmos_logo.png" #optional
+
+[[mods]]
+	modId="cosmoslibrary"
+	version="5.1.5.140"
+	displayName="Cosmos Library"
+	displayURL="https://www.curseforge.com/minecraft/mc-mods/cosmos-library"
+	authors="TheCosmicNebula_"
+	description='''
+Library and API for TheCosmicNebula_'s Mods.
+'''
+
+[[dependencies.cosmoslibrary]]
+    modId="forge"
+    mandatory=true
+    versionRange="[39.0.54,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cosmoslibrary]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19]"
+    ordering="NONE"
+    side="BOTH"
+    
+#dimensionalpocketsii
+modLoader="javafml"
+loaderVersion="[39,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/TheCosmicNebula/DimensionalPocketsII/issues"
+logoFile="dimensional_logo.png"
+	
+[[mods]] #mandatory
+	modId="dimensionalpocketsii"
+	version="5.1.1.220"
+	displayName="Dimensional Pockets II"
+	displayURL="https://www.curseforge.com/minecraft/mc-mods/dimensional-pockets-ii"
+	credits="NPException, VsnGamer (Elevator Code), SuperMartijn642 (Chunkloading Code), Scarlet Spark, Apolybrium, Rechalow, Discord Members"
+	authors="TheCosmicNebula_" #optional
+	description='''
+Create pocket dimensions!
+'''
+
+[[dependencies.dimensionalpocketsii]]
+    modId="cosmoslibrary"
+    mandatory=true
+    versionRange="[5.1.5,)"
+    ordering="BEFORE"
+    side="BOTH"
+[[dependencies.dimensionalpocketsii]]
+    modId="forge"
+    mandatory=true
+    versionRange="[39.0.54,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.dimensionalpocketsii]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19]"
+    ordering="NONE"
+    side="BOTH"
+    

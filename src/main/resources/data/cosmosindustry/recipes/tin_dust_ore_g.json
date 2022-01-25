@@ -1,0 +1,10 @@
+{
+	"type": "cosmosindustry:grinding",
+	"input": {
+		"item": "cosmosindustry:block_ore_tin"
+	},
+	"result": {
+		"item": "cosmosindustry:tin_dust",
+		"count": 6
+	}
+}

@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "": {
+            "model": "cosmosindustry:block/block_energy_channel",
+            "transform": "forge:default-block"
+        }
+    },
+    "multipart": [
+        {   "when": { "north": "true" },
+            "apply": { "model": "cosmosindustry:block/block_energy_channel"}
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "cosmosindustry:block/block_energy_channel"}
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "cosmosindustry:block/block_energy_channel"}
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "cosmosindustry:block/block_energy_channel"}
+        },
+        {   "when": { "up": "true" },
+            "apply": { "model": "cosmosindustry:block/block_energy_channel"}
+        },
+        {   "when": { "down": "true" },
+            "apply": { "model": "cosmosindustry:block/block_energy_channel"}
+        }
+    ]
+}

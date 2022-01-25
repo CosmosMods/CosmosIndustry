@@ -1,0 +1,8 @@
+{
+	"multipart": [
+		{ "when": { "facing": "north" }, "apply": { "model": "cosmosindustry:block/block_separator_model"} },
+		{ "when": { "facing": "south" }, "apply": { "model": "cosmosindustry:block/block_separator_model", "y": 180 } },
+		{ "when": { "facing": "west" }, "apply": { "model": "cosmosindustry:block/block_separator_model", "y": 270 } },
+		{ "when": { "facing": "east" }, "apply": { "model": "cosmosindustry:block/block_separator_model", "y": 90} }
+	]
+}

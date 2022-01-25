@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"IWI",
+		"ECE",
+		"SPS"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"W": {
+			"item": "cosmosindustry:energy_wafer"
+		},
+		"E": {
+			"item": "cosmosindustry:energy_ingot"
+		},
+		"C": {
+			"item": "cosmosindustry:circuit_one"
+		},
+		"S": {
+			"item": "cosmosindustry:block_steel"
+		},
+		"P": {
+			"item": "cosmosindustry:block_synthesiser_stand"
+		}
+	},
+	"result": {
+		"item": "cosmosindustry:block_synthesiser"
+	}
+}
